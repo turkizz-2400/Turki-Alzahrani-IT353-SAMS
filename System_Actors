@@ -1,0 +1,36 @@
+# System Actors
+
+## Primary Actors
+
+### Student
+
+- Browse activities
+- Register for activities
+- Cancel reservations
+- Join waiting lists
+- View activity history
+- Download certificates
+- View transcripts
+
+### Activity Organizer
+
+- Create activities
+- Edit activities
+- Publish activities
+- Manage participants
+- Record attendance
+- Issue certificates
+- Generate reports
+
+### Student Affairs Officer
+
+- Manage activity categories
+- Approve activities
+- Generate reports
+- Verify activity transcripts
+
+## Supporting Actors
+
+- University Identity and Authentication System
+- Notification Service
+- Academic and Graduation System
