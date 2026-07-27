@@ -1,0 +1,7 @@
+Scenario_Analysis
+
+SEU Plans to develop a Student Activities Management System (SAMS) to centralize extracurricular activity management.
+The system should allow students to browse activities, register, cancel registrations before deadlines, receive notifications, record attendance electronically, and access their activity history.
+Activity organizers should be able to create, edit, publish, and manage activities, registrations, attendance, certificates, and reports.
+Student Affairs should approve activities, manage categories, monitor participation statistics, verify transcripts, and generate institutional reports.
+The system should also support waiting lists, notifications, and automatic activity transcript generation.
