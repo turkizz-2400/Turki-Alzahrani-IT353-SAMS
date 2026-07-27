@@ -1,0 +1,39 @@
+# Functional Requirements
+
+## Student shall be able to
+
+- Browse activities
+- Search activities
+- Filter by category
+- Filter by campus
+- Filter by date
+- View activity details
+- Register for activities
+- Cancel reservations
+
+
+## Activity Organizer shall be able to
+
+- Create activities
+- Edit activities
+- Publish activities
+- Cancel activities
+- Approve registrations
+- Record attendance
+- Issue certificates
+- Generate reports
+
+## Student Affairs shall be able to
+
+- Manage categories
+- Approve activities
+- Monitor participation
+- Generate institutional reports
+- Verify transcripts
+
+## System shall be able to
+
+- Send notifications
+- Manage waiting lists
+- Promote students automatically
+- Generate activity transcripts
