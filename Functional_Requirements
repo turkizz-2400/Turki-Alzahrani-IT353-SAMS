@@ -10,7 +10,12 @@
 - View activity details
 - Register for activities
 - Cancel reservations
-
+- Receive notifications
+- Record attendance
+- View participation history
+- View certificates
+- View achievements
+- View activity transcript
 
 ## Activity Organizer shall be able to
 
@@ -18,6 +23,11 @@
 - Edit activities
 - Publish activities
 - Cancel activities
+- Define participant limits
+- Define registration periods
+- Define eligibility
+- Define attendance methods
+- Manage participants
 - Approve registrations
 - Record attendance
 - Issue certificates
