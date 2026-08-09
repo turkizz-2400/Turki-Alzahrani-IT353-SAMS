@@ -1,1 +1,28 @@
+## UC-01 Register for an Activity
 
+- Search for activities
+- View activity details
+- Register
+- Validate eligibility
+- Check registration deadline
+- Check capacity
+- Confirm registration
+- Send notification
+
+## UC-02 Create and Publish an Activity
+
+- Create activity
+- Enter activity information
+- Define participant limits
+- Submit for approval
+- Receive approval
+- Publish activity
+
+## UC-03 Generate Student Activity Transcript
+
+- Validate graduation status
+- Retrieve completed activities
+- Calculate participation
+- Generate transcript
+- Verify transcript
+- Provide transcript to student
